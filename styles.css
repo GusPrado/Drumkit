@@ -45,7 +45,7 @@ background-image: url('images/tom3.png');
 }
 
 .set {
-  margin: 10% auto;
+  margin: 8% auto;
 }
 
 .game-over {
@@ -67,14 +67,14 @@ background-image: url('images/tom3.png');
   border: 10px solid #404B69;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
-  line-height: 2;
+  line-height: 1.6;
   font-weight: 900;
   color: #DA0463;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
-  width: 130px;
-  height: 130px;
+  width: 140px;
+  height: 140px;
   text-align: center;
   margin: 10px;
   background-color: white;
